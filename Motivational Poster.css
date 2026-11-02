@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+img{
+    border: solid 5px white;
+    height: 524; width: 1048;
+}
+
+h3{
+    margin-top: 100px;
+    margin-left: 1000px;
+    color: white;
+}
+
+#we{
+    margin-top: 50px;
+}
+
+#tp{
+    margin-top: 50px;
+}
