@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+h1{
+    margin-left: 900px;
+}
+
+#top{
+    margin-left: 900px;
+}
+
+
+.about{
+     border: 5px solid aqua;
+    background-color: darkgray;
+    margin-bottom: 30px;
+    height: 150;
+    width: 500;
+    margin-left: 750px;
+}
+
+.things{
+     border: 5px solid aqua;
+    background-color: darkgrey;
+     margin-bottom: 30px;
+      height: 150;
+    width: 500;
+    margin-left: 750px;
+    box-shadow:5px solid black;
+}
+
+.goals{
+     border: 5px solid aqua;
+    background-color: darkgrey;
+     margin-bottom: 30px;
+      height: 150;
+    width: 500;
+    margin-left: 750px;
+}
+
+.links{
+     border: 5px solid aqua;
+    background-color: darkgrey;
+     margin-bottom: 30px;
+      height: 150;
+    width: 500;
+    margin-left: 750px;
+}
+address{
+    margin-left: 750px;
+}
+
+ul{
+    display: table; margin: 0 auto
+    
+}
+
+ol{
+    display: table; margin: 0 auto
+}
